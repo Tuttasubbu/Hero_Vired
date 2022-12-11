@@ -7,4 +7,9 @@ for i in range(5):
             break
         else:
             print("enter a positive number")
-print(lis)       
+summ = sum(lis)
+print(summ)
+n = open("List.txt","w")
+print(lis,file=n)
+print(summ,file=n)
+n.close()       

@@ -1,0 +1,1 @@
+{'Ford Mustang': 'red', 'Toyota Camry': 'silver', 'Honda Civic': 'blue', 'BMW 3 Series': 'black', 'Nissan Altima': 'white', 'Hyundai Sonata': 'gray', 'Kia Optima': 'silver', 'Mazda CX-5': 'red', 'Subaru Outback': 'blue'}
