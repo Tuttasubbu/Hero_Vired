@@ -2,7 +2,7 @@ lis = []
 for i in range(5):
     while True:
         n = int(input("enter a number"))
-        if n>0:
+        if n>=0:
             lis.append(n)
             break
         else:
