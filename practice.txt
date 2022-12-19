@@ -1,0 +1,94 @@
+0    1
+1    2
+2    8
+3    4
+4    6
+dtype: int64
+0     5
+1     7
+2     3
+3     9
+4    10
+dtype: int64
+Addition 
+0     6
+1     9
+2    11
+3    13
+4    16
+dtype: int64
+Subtraction 
+0   -4
+1   -5
+2    5
+3   -5
+4   -4
+dtype: int64
+Multiplication 
+0     5
+1    14
+2    24
+3    36
+4    60
+dtype: int64
+Division 
+0    0.200000
+1    0.285714
+2    2.666667
+3    0.444444
+4    0.600000
+dtype: float64
+Module 
+0    1
+1    2
+2    2
+3    4
+4    6
+dtype: int64
+0    1
+1    2
+2    8
+3    4
+4    6
+dtype: int64
+0     5
+1     7
+2     3
+3     9
+4    10
+dtype: int64
+Addition 
+0     6
+1     9
+2    11
+3    13
+4    16
+dtype: int64
+Subtraction 
+0   -4
+1   -5
+2    5
+3   -5
+4   -4
+dtype: int64
+Multiplication 
+0     5
+1    14
+2    24
+3    36
+4    60
+dtype: int64
+Division 
+0    0.200000
+1    0.285714
+2    2.666667
+3    0.444444
+4    0.600000
+dtype: float64
+Module 
+0    1
+1    2
+2    2
+3    4
+4    6
+dtype: int64
